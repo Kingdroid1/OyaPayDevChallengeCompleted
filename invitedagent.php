@@ -48,7 +48,7 @@
 		<div class="signin-form">
 			<h1>OyaPay Agent</h1>
 			<div class="container">
-				<!-- Registration form for merchants -->
+				<!-- Registration form for agents -->
 				<form class="form-signin" method="post" id="register-form">
 					<h2 class="form-signin-heading">Agent Account</h2>
 					<hr>
